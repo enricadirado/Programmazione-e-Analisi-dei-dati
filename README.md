@@ -1,4 +1,13 @@
-# Programmazione-e-Analisi-dei-dati
-Assegnamenti per il corso di Programmazione e analisi dei dati della laurea Magistrale di Informatica Umanistica (AA 24/25)
+# Programmazione e Analisi dei dati
 
-Assegnamento 2 --> files riguardanti il secondo assegnamento
+## Struttura del repository
+
+Il repository è suddiviso nelle seguenti cartelle:
+
+### 1. `Assegnamento2`
+Contiene i file relativi al secondo assegnamento del corso.  
+- **Descrizione**: Gestione di un catalogo di animali in uno zoo
+- **Files**:
+  - `zoo.py`: Implementazione delle funzionalità richieste.
+  - `test_zoo.py`: Script per testare le funzioni implementate.
+
